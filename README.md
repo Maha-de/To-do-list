@@ -1,6 +1,8 @@
 # to_do_list
 
 A new Flutter project.
+**To remove the Provider error, open the pubspec.yaml and click on Pub get.
+
 
 ## Getting Started
 
